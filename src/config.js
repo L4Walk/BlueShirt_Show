@@ -20,6 +20,8 @@ const SORT_DATA = [
 
 const RECORD_NUMBER = ""; // 网站备案号，留空不显示
 
+const BLUESHRIT_LOGO = "http://www.bluelskj.com/wp-content/uploads/2023/05/8fa5b-www.blueshirtyun.com.png";
+
 const PAGES_DATA = [
   {
     pageId: 1,
@@ -27,15 +29,23 @@ const PAGES_DATA = [
     title: "蓝衫官网",
     subtitle: "",
     url: "https://www.bluelsqkj.com/",
-    icon: "https://www.bluelsqkj.com/"
+    icon: BLUESHRIT_LOGO
   },
   {
     pageId: 2,
-    sortId: 2,
-    title: "主标题",
-    subtitle: "副标题",
+    sortId: 1,
+    title: "蓝衫导航",
+    subtitle: "一个可自定义的简介导航网站",
     url: "http://www.your-web-page.xyz/",
-    icon: ""
+    icon: BLUESHRIT_LOGO
+  },
+  {
+    pageId: 3,
+    sortId: 2,
+    title: "蓝衫云",
+    subtitle: "中国香港CN2 GIA 美国大带宽服务器 VPS",
+    url: "https://www.blueshirtyun.com/",
+    icon: BLUESHRIT_LOGO
   }
 ]; // 网站分类列表，请按照API.md中'/getPages'接口中返回的data格式填写
 
@@ -44,11 +54,7 @@ const SLOGAN = [
   "歡迎拜訪",
   "Welcome, my friend!",
   "訪問へようこそ",
-  "嗨，别来无恙",
-  "不忘初心，一生浪漫",
-  "最近还好吗？",
-  "流星，落花，萤火",
-  "马车越空，晃荡越响"
+  "嗨，别来无恙"
 ]; // 在Logo下方显示的标题
 
 const FOOTER_INFO = true; // 是否显示抽屉右下角的文字信息
