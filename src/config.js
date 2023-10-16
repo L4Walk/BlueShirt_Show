@@ -41,6 +41,14 @@ const PAGES_DATA = [
   },
   {
     pageId: 3,
+    sortId: 1,
+    title: "蓝衫云",
+    subtitle: "中国香港CN2 GIA 美国大带宽服务器 VPS",
+    url: "https://www.blueshirtyun.com/",
+    icon: BLUESHRIT_LOGO
+  },
+  {
+    pageId: 3,
     sortId: 2,
     title: "蓝衫云",
     subtitle: "中国香港CN2 GIA 美国大带宽服务器 VPS",
