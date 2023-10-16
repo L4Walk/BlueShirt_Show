@@ -100,6 +100,14 @@ const PAGES_DATA = [
     subtitle: "",
     url: "https://mobile.twitter.com/FengIves",
     icon: "https://pngmind.com/wp-content/uploads/2019/08/Twitter-Logo-Png-Transparent-Background.jpg"
+  },
+  {
+    pageId: 9,
+    sortId: 3,
+    title: "油管-蓝衫科技",
+    subtitle: "",
+    url: "https://www.youtube.com/channel/UCp0r9_FrVb4TgRqmYyVatDg",
+    icon: "https://th.bing.com/th/id/OIP.vfYgwsIM9IiKnbDetbxsLwAAAA?pid=ImgDet&rs=1"
   }
 ]; // 网站分类列表，请按照API.md中'/getPages'接口中返回的data格式填写
 
