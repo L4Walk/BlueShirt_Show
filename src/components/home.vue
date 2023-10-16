@@ -46,7 +46,7 @@
           <i v-if="centerShow" class="mdi-chevron-down mdi"></i>
         </transition>
       </div>
-      <div class="bottom-info">Slide UP</div>
+      <div class="bottom-info">向上滑 Slide UP</div>
     </div>
 
     <!-- 备案号 -->
