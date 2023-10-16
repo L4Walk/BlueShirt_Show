@@ -11,8 +11,11 @@ const GITHUB = ""; // 右上角 Github 图标链接，留空不显示
 const BACKGROUND_IMG_URL = "https://ts1.cn.mm.bing.net/th/id/R-C.ea46e780c79acab0adc06e92964538ee?rik=owa1g2%2bHyBaBHQ&riu=http%3a%2f%2fstatic.58cgg.com%2fuploads%2fallimg%2f201028%2f245-20102R31144601.jpg&ehk=jIXeHZlS8yYgC24OInkc3U%2fzhDwGuTaN%2bChbQjEvmBk%3d&risl=&pid=ImgRaw&r=0"; // 背景图片url，默认为必应每日图片（第三方接口）
 
 const SORT_DATA = [
-  { sortId: 1, title: "示例分类1" },
-  { sortId: 2, title: "示例分类2" }
+  { sortId: 1, title: "官方站点" },
+  { sortId: 2, title: "基础服务" },
+  { sortId: 3, title: "社交媒体" },
+  { sortId: 4, title: "AI生态" },
+  { sortId: 5, title: "其他站点"},
 ]; // 网站分类列表，请按照API.md中'/getSort'接口中返回的data格式填写
 
 const RECORD_NUMBER = ""; // 网站备案号，留空不显示
@@ -21,10 +24,10 @@ const PAGES_DATA = [
   {
     pageId: 1,
     sortId: 1,
-    title: "主标题",
-    subtitle: "副标题",
-    url: "http://www.your-web-page.com/",
-    icon: ""
+    title: "蓝衫官网",
+    subtitle: "",
+    url: "https://www.bluelsqkj.com/",
+    icon: "https://www.bluelsqkj.com/"
   },
   {
     pageId: 2,
