@@ -22,10 +22,11 @@ const RECORD_NUMBER = ""; // 网站备案号，留空不显示
 
 const BLUESHRIT_LOGO = "http://www.bluelskj.com/wp-content/uploads/2023/05/8fa5b-www.blueshirtyun.com.png";
 
+// pageId 命名规则: txx，t为sortID，xx为编号
 const PAGES_DATA = [
   /* 官方站点 */
   {
-    pageId: 1,
+    pageId: 101,
     sortId: 1,
     title: "蓝衫官网",
     subtitle: "",
@@ -33,7 +34,7 @@ const PAGES_DATA = [
     icon: BLUESHRIT_LOGO
   },
   {
-    pageId: 2,
+    pageId: 102,
     sortId: 1,
     title: "蓝衫导航",
     subtitle: "一个可自定义的简介导航网站",
@@ -41,7 +42,7 @@ const PAGES_DATA = [
     icon: BLUESHRIT_LOGO
   },
   {
-    pageId: 3,
+    pageId: 103,
     sortId: 1,
     title: "蓝衫云",
     subtitle: "中国香港CN2 GIA 美国大带宽服务器 VPS SSL证书",
@@ -51,7 +52,7 @@ const PAGES_DATA = [
 
   /* 基础服务 */
   {
-    pageId: 3,
+    pageId: 201,
     sortId: 2,
     title: "蓝衫云",
     subtitle: "中国香港CN2 GIA 美国大带宽服务器 VPS SSL证书",
@@ -62,7 +63,31 @@ const PAGES_DATA = [
 
   /* 社交媒体 */
   {
-    pageId: 4,
+    pageId: 301,
+    sortId: 3,
+    title: "微信公众号-蓝衫科技",
+    subtitle: "",
+    url: "http://www.bluelskj.com/wp-content/uploads/2023/10/蓝衫科技.png",
+    icon: BLUESHRIT_LOGO
+  },
+  {
+    pageId: 302,
+    sortId: 3,
+    title: "微信公众号-蓝衫轻科技",
+    subtitle: "",
+    url: "http://www.bluelskj.com/wp-content/uploads/2023/10/蓝衫轻科技.jpg",
+    icon: BLUESHRIT_LOGO
+    },
+  {
+    pageId: 303,
+    sortId: 3,
+    title: "微信公众号-创聚校园",
+    subtitle: "",
+    url: "https://www.zhihu.com/people/mi-hun-dream-76",
+    icon: BLUESHRIT_LOGO
+  },
+  {
+    pageId: 304,
     sortId: 3,
     title: "知乎-蓝衫科技",
     subtitle: "",
@@ -70,7 +95,7 @@ const PAGES_DATA = [
     icon: "https://th.bing.com/th/id/R.f0bd97564b85fd953f0d3a416650ef32?rik=%2fSDTEtosZK4hIw&riu=http%3a%2f%2fwww.kuaipng.com%2fUploads%2fpic%2fw%2f2021%2f04-07%2f98963%2fwater_98963_698_698_.png&ehk=8l2O6L%2b3ARFH2w6EYU%2b57FSZ%2fh3noVqeAY4b4%2fZ2%2fr4%3d&risl=&pid=ImgRaw&r=0"
   },
   {
-    pageId: 5,
+    pageId: 305,
     sortId: 3,
     title: "Bilibili-蓝衫轻科技",
     subtitle: "",
@@ -78,7 +103,7 @@ const PAGES_DATA = [
     icon: "https://android-artworks.25pp.com/fs08/2021/04/15/0/110_a1c6eb62a7b1139bee62358a2f0ebf02_con_130x130.png"
   },
   {
-    pageId: 6,
+    pageId: 306,
     sortId: 3,
     title: "今日头条-蓝衫科技",
     subtitle: "",
@@ -86,7 +111,7 @@ const PAGES_DATA = [
     icon: "https://ts1.cn.mm.bing.net/th/id/R-C.29e434e50c151a2ab26f5c20681a1954?rik=0OVXD0T26b4xrw&riu=http%3a%2f%2fpro.statics.logoqs.techuangyi.com%2f2017%2f08%2f01%2fstFAKrcP3eRPeYW7Jwc3QzXc.jpg&ehk=u3u3zKGpzc%2fnHOap0%2f0kgjTlCPhBaiJpRJDvLnPQCzU%3d&risl=&pid=ImgRaw&r=0&sres=1&sresct=1"
   },
   {
-    pageId: 7,
+    pageId: 307,
     sortId: 3,
     title: "RSS-蓝衫科技",
     subtitle: "",
@@ -94,7 +119,7 @@ const PAGES_DATA = [
     icon: "https://th.bing.com/th/id/R.836829e6642b0f4920dc56143112fe03?rik=erdNdDZgJEe84Q&riu=http%3a%2f%2fwww.ranklogos.com%2fwp-content%2fuploads%2f2012%2f04%2fRSS-logo.png&ehk=bH7ZQE7aEOGgCH28o3U5jkJj5Uz9jGl08sWFGKj%2fK3U%3d&risl=&pid=ImgRaw&r=0"
   },
   {
-    pageId: 8,
+    pageId: 308,
     sortId: 3,
     title: "推特-蓝衫科技",
     subtitle: "",
@@ -102,7 +127,7 @@ const PAGES_DATA = [
     icon: "https://pngmind.com/wp-content/uploads/2019/08/Twitter-Logo-Png-Transparent-Background.jpg"
   },
   {
-    pageId: 9,
+    pageId: 309,
     sortId: 3,
     title: "油管-蓝衫科技",
     subtitle: "",
