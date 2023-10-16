@@ -91,7 +91,7 @@ const PAGES_DATA = [
     title: "RSS-蓝衫科技",
     subtitle: "",
     url: "https://www.bluelsqkj.com/feed",
-    icon: "https://bpic.51yuansu.com/pic2/cover/00/46/15/581566e070e20_610.jpg"
+    icon: "https://th.bing.com/th/id/R.836829e6642b0f4920dc56143112fe03?rik=erdNdDZgJEe84Q&riu=http%3a%2f%2fwww.ranklogos.com%2fwp-content%2fuploads%2f2012%2f04%2fRSS-logo.png&ehk=bH7ZQE7aEOGgCH28o3U5jkJj5Uz9jGl08sWFGKj%2fK3U%3d&risl=&pid=ImgRaw&r=0"
   },
   {
     pageId: 8,
