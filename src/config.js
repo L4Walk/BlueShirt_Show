@@ -76,6 +76,14 @@ const PAGES_DATA = [
     subtitle: "",
     url: "https://space.bilibili.com/346415234?spm_id_from=333.337.search-card.all.click",
     icon: "https://android-artworks.25pp.com/fs08/2021/04/15/0/110_a1c6eb62a7b1139bee62358a2f0ebf02_con_130x130.png"
+  },
+  {
+    pageId: 6,
+    sortId: 3,
+    title: "今日头条-蓝衫科技",
+    subtitle: "",
+    url: "https://www.toutiao.com/c/user/token/MS4wLjABAAAAfRCHPCpVGx2xcLQKQ4T_ByqCVgfyp8NGmdD8vU2T2ztx5GOAu1P515HEdKzpfFwU/?",
+    icon: "https://ts1.cn.mm.bing.net/th/id/R-C.29e434e50c151a2ab26f5c20681a1954?rik=0OVXD0T26b4xrw&riu=http%3a%2f%2fpro.statics.logoqs.techuangyi.com%2f2017%2f08%2f01%2fstFAKrcP3eRPeYW7Jwc3QzXc.jpg&ehk=u3u3zKGpzc%2fnHOap0%2f0kgjTlCPhBaiJpRJDvLnPQCzU%3d&risl=&pid=ImgRaw&r=0&sres=1&sresct=1"
   }
 ]; // 网站分类列表，请按照API.md中'/getPages'接口中返回的data格式填写
 
