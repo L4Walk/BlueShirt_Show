@@ -84,6 +84,14 @@ const PAGES_DATA = [
     subtitle: "",
     url: "https://www.toutiao.com/c/user/token/MS4wLjABAAAAfRCHPCpVGx2xcLQKQ4T_ByqCVgfyp8NGmdD8vU2T2ztx5GOAu1P515HEdKzpfFwU/?",
     icon: "https://ts1.cn.mm.bing.net/th/id/R-C.29e434e50c151a2ab26f5c20681a1954?rik=0OVXD0T26b4xrw&riu=http%3a%2f%2fpro.statics.logoqs.techuangyi.com%2f2017%2f08%2f01%2fstFAKrcP3eRPeYW7Jwc3QzXc.jpg&ehk=u3u3zKGpzc%2fnHOap0%2f0kgjTlCPhBaiJpRJDvLnPQCzU%3d&risl=&pid=ImgRaw&r=0&sres=1&sresct=1"
+  },
+  {
+    pageId: 7,
+    sortId: 3,
+    title: "RSS-蓝衫科技",
+    subtitle: "",
+    url: "https://www.bluelsqkj.com/feed",
+    icon: "https://bpic.51yuansu.com/pic2/cover/00/46/15/581566e070e20_610.jpg"
   }
 ]; // 网站分类列表，请按照API.md中'/getPages'接口中返回的data格式填写
 
