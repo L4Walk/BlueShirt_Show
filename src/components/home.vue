@@ -244,7 +244,7 @@ export default {
     position: absolute;
     left: 0;
     top: 0;
-    background-color: #fda085;
+    background-color: #f3b760;
     overflow: hidden;
     transition: all 0.5s;
   }
