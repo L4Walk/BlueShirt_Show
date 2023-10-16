@@ -249,7 +249,7 @@ export default {
     transition: all 0.5s;
   }
   .img_shadow_show {
-    background-color: rgba(0, 0, 0, 0.5);
+    background-color: rgba(0, 0, 0, 0.3);
   }
   .wrapper_blur {
     filter: blur(1px);

@@ -40,7 +40,7 @@
       </transition-group>
     </div>
     <div class="footer" v-if="$config.FOOTER_INFO">
-      <i class="mdi mdi-fountain-pen-tip"></i> 蓝衫科技技术支持
+      <i class="mdi mdi-fountain-pen-tip"></i> 蓝衫科技-技术支持
       <a href="https://www.ljy-lu.space/">L4Walk</a>
     </div>
   </div>
