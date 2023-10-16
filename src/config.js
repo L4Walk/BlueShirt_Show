@@ -54,7 +54,8 @@ const SLOGAN = [
   "歡迎拜訪",
   "Welcome, my friend!",
   "訪問へようこそ",
-  "嗨，别来无恙"
+  "嗨，别来无恙",
+  "以互助之心，做实用之事"
 ]; // 在Logo下方显示的标题
 
 const FOOTER_INFO = true; // 是否显示抽屉右下角的文字信息
