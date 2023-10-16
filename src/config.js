@@ -92,6 +92,14 @@ const PAGES_DATA = [
     subtitle: "",
     url: "https://www.bluelsqkj.com/feed",
     icon: "https://bpic.51yuansu.com/pic2/cover/00/46/15/581566e070e20_610.jpg"
+  },
+  {
+    pageId: 8,
+    sortId: 3,
+    title: "推特-蓝衫科技",
+    subtitle: "",
+    url: "https://mobile.twitter.com/FengIves",
+    icon: "https://th.bing.com/th/id/OIP.h0IBZs64qZwjv6w26r2O7gHaFj?pid=ImgDet&rs=1"
   }
 ]; // 网站分类列表，请按照API.md中'/getPages'接口中返回的data格式填写
 
