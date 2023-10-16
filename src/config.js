@@ -50,11 +50,6 @@ const PAGES_DATA = [
 ]; // 网站分类列表，请按照API.md中'/getPages'接口中返回的data格式填写
 
 const SLOGAN = [
-  "欢迎拜访",
-  "歡迎拜訪",
-  "Welcome, my friend!",
-  "訪問へようこそ",
-  "嗨，别来无恙",
   "以互助之心，做实用之事"
 ]; // 在Logo下方显示的标题
 
