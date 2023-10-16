@@ -23,6 +23,7 @@ const RECORD_NUMBER = ""; // 网站备案号，留空不显示
 const BLUESHRIT_LOGO = "http://www.bluelskj.com/wp-content/uploads/2023/05/8fa5b-www.blueshirtyun.com.png";
 
 const PAGES_DATA = [
+  /* 官方站点 */
   {
     pageId: 1,
     sortId: 1,
@@ -43,17 +44,30 @@ const PAGES_DATA = [
     pageId: 3,
     sortId: 1,
     title: "蓝衫云",
-    subtitle: "中国香港CN2 GIA 美国大带宽服务器 VPS",
+    subtitle: "中国香港CN2 GIA 美国大带宽服务器 VPS SSL证书",
     url: "https://www.blueshirtyun.com/",
     icon: BLUESHRIT_LOGO
   },
+
+  /* 基础服务 */
   {
     pageId: 3,
     sortId: 2,
     title: "蓝衫云",
-    subtitle: "中国香港CN2 GIA 美国大带宽服务器 VPS",
+    subtitle: "中国香港CN2 GIA 美国大带宽服务器 VPS SSL证书",
     url: "https://www.blueshirtyun.com/",
     icon: BLUESHRIT_LOGO
+  },
+
+
+  /* 社交媒体 */
+  {
+    pageId: 4,
+    sortId: 3,
+    title: "知乎",
+    subtitle: "中国香港CN2 GIA 美国大带宽服务器 VPS SSL证书",
+    url: "https://www.zhihu.com/people/mi-hun-dream-76",
+    icon: "https://th.bing.com/th/id/R.f0bd97564b85fd953f0d3a416650ef32?rik=%2fSDTEtosZK4hIw&riu=http%3a%2f%2fwww.kuaipng.com%2fUploads%2fpic%2fw%2f2021%2f04-07%2f98963%2fwater_98963_698_698_.png&ehk=8l2O6L%2b3ARFH2w6EYU%2b57FSZ%2fh3noVqeAY4b4%2fZ2%2fr4%3d&risl=&pid=ImgRaw&r=0"
   }
 ]; // 网站分类列表，请按照API.md中'/getPages'接口中返回的data格式填写
 
