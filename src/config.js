@@ -99,7 +99,7 @@ const PAGES_DATA = [
     title: "推特-蓝衫科技",
     subtitle: "",
     url: "https://mobile.twitter.com/FengIves",
-    icon: "https://th.bing.com/th/id/OIP.h0IBZs64qZwjv6w26r2O7gHaFj?pid=ImgDet&rs=1"
+    icon: "https://pngmind.com/wp-content/uploads/2019/08/Twitter-Logo-Png-Transparent-Background.jpg"
   }
 ]; // 网站分类列表，请按照API.md中'/getPages'接口中返回的data格式填写
 
