@@ -64,10 +64,18 @@ const PAGES_DATA = [
   {
     pageId: 4,
     sortId: 3,
-    title: "知乎",
-    subtitle: "中国香港CN2 GIA 美国大带宽服务器 VPS SSL证书",
+    title: "知乎-蓝衫科技",
+    subtitle: "",
     url: "https://www.zhihu.com/people/mi-hun-dream-76",
     icon: "https://th.bing.com/th/id/R.f0bd97564b85fd953f0d3a416650ef32?rik=%2fSDTEtosZK4hIw&riu=http%3a%2f%2fwww.kuaipng.com%2fUploads%2fpic%2fw%2f2021%2f04-07%2f98963%2fwater_98963_698_698_.png&ehk=8l2O6L%2b3ARFH2w6EYU%2b57FSZ%2fh3noVqeAY4b4%2fZ2%2fr4%3d&risl=&pid=ImgRaw&r=0"
+  },
+  {
+    pageId: 5,
+    sortId: 3,
+    title: "Bilibili-蓝衫轻科技",
+    subtitle: "",
+    url: "https://space.bilibili.com/346415234?spm_id_from=333.337.search-card.all.click",
+    icon: "https://android-artworks.25pp.com/fs08/2021/04/15/0/110_a1c6eb62a7b1139bee62358a2f0ebf02_con_130x130.png"
   }
 ]; // 网站分类列表，请按照API.md中'/getPages'接口中返回的data格式填写
 
