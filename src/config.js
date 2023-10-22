@@ -133,7 +133,68 @@ const PAGES_DATA = [
     subtitle: "",
     url: "https://www.youtube.com/channel/UCp0r9_FrVb4TgRqmYyVatDg",
     icon: "https://th.bing.com/th/id/OIP.vfYgwsIM9IiKnbDetbxsLwAAAA?pid=ImgDet&rs=1"
-  }
+  },
+
+  /* AI生态 */
+  {
+    pageId: 401,
+    sortId: 4,
+    title: "Shirt.AI",
+    subtitle: "",
+    url: "https://www.lsshirtai.com/",
+    icon: BLUESHRIT_LOGO
+  },  
+  {
+    pageId: 402,
+    sortId: 4,
+    title: "ChatGPT 进阶版",
+    subtitle: "",
+    url: "https://www.bluelsqkj.com/zh_cn/chatgptpro",
+    icon: BLUESHRIT_LOGO
+  },
+  {
+    pageId: 403,
+    sortId: 4,
+    title: "ChatGPT 免费版",
+    subtitle: "",
+    url: "https://www.bluelsqkj.com/zh_cn/chatgptbuild",
+    icon: BLUESHRIT_LOGO
+  },
+  {
+    pageId: 404,
+    sortId: 4,
+    title: "ChatGPT 购买平台",
+    subtitle: "",
+    url: "https://www.bluelsqkj.com/zh_cn/chatgpt-purchase-2",
+    icon: BLUESHRIT_LOGO
+  },
+  {
+    pageId: 405,
+    sortId: 4,
+    title: "学术GPT",
+    subtitle: "",
+    url: "https://www.bluelsqkj.com/zh_cn/academicgpt",
+    icon: BLUESHRIT_LOGO
+  },
+  {
+    pageId: 406,
+    sortId: 4,
+    title: "ChatGPT Plus",
+    subtitle: "",
+    url: "https://www.bluelsqkj.com/zh_cn/chatgptplus2",
+    icon: BLUESHRIT_LOGO
+  },
+  {
+    pageId: 407,
+    sortId: 4,
+    title: "Midjourney普通版",
+    subtitle: "",
+    url: "https://www.bluelsqkj.com/zh_cn/midjourney",
+    icon: BLUESHRIT_LOGO
+  },
+  /* 其他站点 */
+
+  
 ]; // 网站分类列表，请按照API.md中'/getPages'接口中返回的data格式填写
 
 const SLOGAN = [
