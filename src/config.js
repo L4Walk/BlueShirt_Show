@@ -49,6 +49,15 @@ const PAGES_DATA = [
     url: "https://www.blueshirtyun.com/",
     icon: BLUESHRIT_LOGO
   },
+  {
+    pageId: 104,
+    sortId: 1,
+    title: "蓝衫轻盘",
+    subtitle: "文件资源共享",
+    url: "https://www.blueshirttools.com/",
+    icon: BLUESHRIT_LOGO
+  },
+
 
   /* 基础服务 */
   {
@@ -59,6 +68,15 @@ const PAGES_DATA = [
     url: "https://www.blueshirtyun.com/",
     icon: BLUESHRIT_LOGO
   },
+  {
+    pageId: 202,
+    sortId: 2,
+    title: "蓝衫APP封装",
+    subtitle: "专业的 Android / ios 打包解决方案",
+    url: "https://www.blueios.com/",
+    icon: "https://www.blueios.com/static/images/logo.png"
+  },
+
 
 
   /* 社交媒体 */
