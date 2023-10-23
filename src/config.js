@@ -74,7 +74,7 @@ const PAGES_DATA = [
     title: "蓝衫APP封装",
     subtitle: "专业的 Android / ios 打包解决方案",
     url: "https://www.blueios.com/",
-    icon: "https://www.blueios.com/static/images/logo.png"
+    icon: "BLUESHRIT_LOGO"
   },
 
 
