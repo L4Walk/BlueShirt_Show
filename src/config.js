@@ -105,17 +105,17 @@ const PAGES_DATA = [
   {
     pageId: 303,
     sortId: 3,
-    title: "微信公众号-创聚校园",
+    title: "微信公众号-智慧蓝衫",
     subtitle: "",
-    url: "https://www.zhihu.com/people/mi-hun-dream-76",
+    url: "http://www.bluelskj.com/wp-content/uploads/2023/10/智慧蓝衫.jpg",
     icon: BLUESHRIT_LOGO
   },
   {
     pageId: 304,
     sortId: 3,
-    title: "微信公众号-智慧蓝衫",
+    title: "微信公众号-创聚校园",
     subtitle: "",
-    url: "./assets/blueshirt_logo/智慧蓝衫.jpg",
+    url: "http://www.bluelskj.com/wp-content/uploads/2023/10/创聚校园.jpg",
     icon: BLUESHRIT_LOGO
   },
   {
