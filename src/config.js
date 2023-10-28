@@ -22,8 +22,8 @@ const RECORD_NUMBER = ""; // 网站备案号，留空不显示
 
 
 const   LOGO_BLUESHRIT = "http://www.bluelskj.com/wp-content/uploads/2023/05/8fa5b-www.blueshirtyun.com.png";
-const   LOGO_MIDJOURNEY = '@/assets/blueshirt_logo/蓝衫midjourney.png';
-const   LOGO_ACDEMIEC = '@/assets/blueshirt_logo/学术GPT.png';
+const   LOGO_MIDJOURNEY = 'http://www.bluelskj.com/wp-content/uploads/2023/10/蓝衫midjourney_64.png';
+const   LOGO_ACDEMIEC = 'http://www.bluelskj.com/wp-content/uploads/2023/10/学术GPT_64.png';
 
 
 
