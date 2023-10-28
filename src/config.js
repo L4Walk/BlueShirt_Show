@@ -32,6 +32,7 @@ const LOGO_GPTPLUS= 'http://www.bluelskj.com/wp-content/uploads/2023/10/GPTPLUS_
 const LOGO_SHIRTAITOOLKIT = 'http://www.bluelskj.com/wp-content/uploads/2023/10/ShirtAI-toolkit_64.png';
 const LOGO_CHUANGJU = 'http://www.bluelskj.com/wp-content/uploads/2023/10/创聚_64.jpg';
 const LOGO_DISK = 'http://www.bluelskj.com/wp-content/uploads/2023/10/蓝衫轻盘_64.png';
+const LOGO_APP = 'http://www.bluelskj.com/wp-content/uploads/2023/10/APP封装_64.png'
 
 
 
@@ -88,7 +89,7 @@ const PAGES_DATA = [
     title: "蓝衫APP封装",
     subtitle: "专业的 Android / ios 打包解决方案",
     url: "https://www.blueios.com/",
-    icon: "https://www.blueios.com/static/images/logo.png"
+    icon: LOGO_APP
   },
 
 
