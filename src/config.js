@@ -24,6 +24,9 @@ const RECORD_NUMBER = ""; // 网站备案号，留空不显示
 const   LOGO_BLUESHRIT = "http://www.bluelskj.com/wp-content/uploads/2023/05/8fa5b-www.blueshirtyun.com.png";
 const   LOGO_MIDJOURNEY = 'http://www.bluelskj.com/wp-content/uploads/2023/10/蓝衫midjourney_64.png';
 const   LOGO_ACDEMIEC = 'http://www.bluelskj.com/wp-content/uploads/2023/10/学术GPT_64.png';
+const LOGO_GPTPRO = 'http://www.bluelskj.com/wp-content/uploads/2023/10/蓝衫GPT进阶版_64.png';
+const LOGO_GPTFREE  = 'http://www.bluelskj.com/wp-content/uploads/2023/10/蓝衫GPT免费版_64.png';
+const LOGO_SHIRTAITOOLKIT = 'http://www.bluelskj.com/wp-content/uploads/2023/10/ShirtAI-toolkit_64.png'
 
 
 
@@ -176,7 +179,7 @@ const PAGES_DATA = [
     title: "Shirt.AI",
     subtitle: "",
     url: "https://www.lsshirtai.com/",
-    icon: LOGO_BLUESHRIT
+    icon: LOGO_SHIRTAITOOLKIT
   },  
   {
     pageId: 402,
@@ -184,7 +187,7 @@ const PAGES_DATA = [
     title: "ChatGPT 进阶版",
     subtitle: "",
     url: "https://www.bluelsqkj.com/zh_cn/chatgptpro",
-    icon: LOGO_BLUESHRIT
+    icon: LOGO_GPTPRO
   },
   {
     pageId: 403,
@@ -192,7 +195,7 @@ const PAGES_DATA = [
     title: "ChatGPT 免费版",
     subtitle: "",
     url: "https://www.bluelsqkj.com/zh_cn/chatgptbuild",
-    icon: LOGO_BLUESHRIT
+    icon: LOGO_GPTFREE
   },
   {
     pageId: 404,
