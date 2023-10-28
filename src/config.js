@@ -37,7 +37,7 @@ const PAGES_DATA = [
     title: "蓝衫官网",
     subtitle: "",
     url: "https://www.bluelsqkj.com/",
-    icon: BLUESHRIT_LOGO
+    icon: LOGO.BLUESHRIT
   },
   {
     pageId: 102,
@@ -45,7 +45,7 @@ const PAGES_DATA = [
     title: "蓝衫导航",
     subtitle: "一个可自定义的简介导航网站",
     url: "http://www.your-web-page.xyz/",
-    icon: BLUESHRIT_LOGO
+    icon: LOGO.BLUESHRIT
   },
   {
     pageId: 103,
@@ -53,7 +53,7 @@ const PAGES_DATA = [
     title: "蓝衫云",
     subtitle: "中国香港CN2 GIA 美国大带宽服务器 VPS SSL证书",
     url: "https://www.blueshirtyun.com/",
-    icon: BLUESHRIT_LOGO
+    icon: LOGO.BLUESHRIT
   },
   {
     pageId: 104,
@@ -72,7 +72,7 @@ const PAGES_DATA = [
     title: "蓝衫云",
     subtitle: "中国香港CN2 GIA 美国大带宽服务器 VPS SSL证书",
     url: "https://www.blueshirtyun.com/",
-    icon: BLUESHRIT_LOGO
+    icon: LOGO.BLUESHRIT
   },
   {
     pageId: 202,
@@ -92,7 +92,7 @@ const PAGES_DATA = [
     title: "微信公众号-蓝衫科技",
     subtitle: "",
     url: "http://www.bluelskj.com/wp-content/uploads/2023/10/蓝衫科技.png",
-    icon: BLUESHRIT_LOGO
+    icon: LOGO.BLUESHRIT
   },
   {
     pageId: 302,
@@ -100,7 +100,7 @@ const PAGES_DATA = [
     title: "微信公众号-蓝衫轻科技",
     subtitle: "",
     url: "http://www.bluelskj.com/wp-content/uploads/2023/10/蓝衫轻科技.jpg",
-    icon: BLUESHRIT_LOGO
+    icon: LOGO.BLUESHRIT
   },
   {
     pageId: 303,
@@ -108,7 +108,7 @@ const PAGES_DATA = [
     title: "微信公众号-智慧蓝衫",
     subtitle: "",
     url: "http://www.bluelskj.com/wp-content/uploads/2023/10/智慧蓝衫.jpg",
-    icon: BLUESHRIT_LOGO
+    icon: LOGO.BLUESHRIT
   },
   {
     pageId: 304,
@@ -116,7 +116,7 @@ const PAGES_DATA = [
     title: "微信公众号-创聚校园",
     subtitle: "",
     url: "http://www.bluelskj.com/wp-content/uploads/2023/10/创聚校园.jpg",
-    icon: BLUESHRIT_LOGO
+    icon: LOGO.BLUESHRIT
   },
   {
     "pageId": 305,
@@ -176,7 +176,7 @@ const PAGES_DATA = [
     title: "Shirt.AI",
     subtitle: "",
     url: "https://www.lsshirtai.com/",
-    icon: BLUESHRIT_LOGO
+    icon: LOGO.BLUESHRIT
   },  
   {
     pageId: 402,
@@ -184,7 +184,7 @@ const PAGES_DATA = [
     title: "ChatGPT 进阶版",
     subtitle: "",
     url: "https://www.bluelsqkj.com/zh_cn/chatgptpro",
-    icon: BLUESHRIT_LOGO
+    icon: LOGO.BLUESHRIT
   },
   {
     pageId: 403,
@@ -192,7 +192,7 @@ const PAGES_DATA = [
     title: "ChatGPT 免费版",
     subtitle: "",
     url: "https://www.bluelsqkj.com/zh_cn/chatgptbuild",
-    icon: BLUESHRIT_LOGO
+    icon: LOGO.BLUESHRIT
   },
   {
     pageId: 404,
@@ -200,7 +200,7 @@ const PAGES_DATA = [
     title: "ChatGPT 购买平台",
     subtitle: "",
     url: "https://www.bluelsqkj.com/zh_cn/chatgpt-purchase-2",
-    icon: BLUESHRIT_LOGO
+    icon: LOGO.BLUESHRIT
   },
   {
     pageId: 405,
@@ -208,7 +208,7 @@ const PAGES_DATA = [
     title: "学术GPT",
     subtitle: "",
     url: "https://www.bluelsqkj.com/zh_cn/academicgpt",
-    icon: BLUESHRIT_LOGO
+    icon: LOGO.BLUESHRIT
   },
   {
     pageId: 406,
@@ -216,7 +216,7 @@ const PAGES_DATA = [
     title: "ChatGPT Plus",
     subtitle: "",
     url: "https://www.bluelsqkj.com/zh_cn/chatgptplus2",
-    icon: BLUESHRIT_LOGO
+    icon: LOGO.BLUESHRIT
   },
   {
     pageId: 407,
@@ -224,7 +224,7 @@ const PAGES_DATA = [
     title: "Midjourney普通版",
     subtitle: "",
     url: "https://www.bluelsqkj.com/zh_cn/midjourney",
-    icon: BLUESHRIT_LOGO
+    icon: LOGO.BLUESHRIT
   },
   /* 其他站点 */
 
