@@ -69,7 +69,7 @@ const PAGES_DATA = [
     title: "蓝衫轻盘",
     subtitle: "文件资源共享",
     url: "https://www.blueshirttools.com/",
-    icon: LOGO_BLUESHRIT
+    icon: LOGO_DISK
   },
 
 
