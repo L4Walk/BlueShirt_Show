@@ -22,8 +22,8 @@ const RECORD_NUMBER = ""; // 网站备案号，留空不显示
 
 class LOGO{
    BLUESHRIT = "http://www.bluelskj.com/wp-content/uploads/2023/05/8fa5b-www.blueshirtyun.com.png";
-   MIDJOURNEY = 'assets/blueshirt_logo/蓝衫midjourney.png';
-   ACDEMIEC = 'assets/blueshirt_logo/学术GPT.png';
+   MIDJOURNEY = '蓝衫midjourney.png';
+   ACDEMIEC = '学术GPT.png';
 }
 
 
@@ -208,7 +208,7 @@ const PAGES_DATA = [
     title: "学术GPT",
     subtitle: "",
     url: "https://www.bluelsqkj.com/zh_cn/academicgpt",
-    icon: LOGO.BLUESHRIT
+    icon: LOGO.ACDEMIEC
   },
   {
     pageId: 406,

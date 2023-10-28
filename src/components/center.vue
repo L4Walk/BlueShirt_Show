@@ -31,7 +31,7 @@
                 :src="
                   item.icon == ''
                     ? 'http://img.cdn.esunr.xyz/Aquarium.png'
-                    : item.icon
+                    : '../assets/blueshirt_logo/'+item.icon
                 "
               />
             </div>
