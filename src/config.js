@@ -20,11 +20,11 @@ const SORT_DATA = [
 
 const RECORD_NUMBER = ""; // 网站备案号，留空不显示
 
-export class LOGO{
-   BLUESHRIT = "http://www.bluelskj.com/wp-content/uploads/2023/05/8fa5b-www.blueshirtyun.com.png";
-   MIDJOURNEY = '@/assets/blueshirt_logo/蓝衫midjourney.png';
-   ACDEMIEC = '@/assets/blueshirt_logo/学术GPT.png';
-}
+
+const   LOGO_BLUESHRIT = "http://www.bluelskj.com/wp-content/uploads/2023/05/8fa5b-www.blueshirtyun.com.png";
+const   LOGO_MIDJOURNEY = '@/assets/blueshirt_logo/蓝衫midjourney.png';
+const   LOGO_ACDEMIEC = '@/assets/blueshirt_logo/学术GPT.png';
+
 
 
 
@@ -37,7 +37,7 @@ const PAGES_DATA = [
     title: "蓝衫官网",
     subtitle: "",
     url: "https://www.bluelsqkj.com/",
-    icon: LOGO.BLUESHRIT
+    icon: LOGO_BLUESHRIT
   },
   {
     pageId: 102,
@@ -45,7 +45,7 @@ const PAGES_DATA = [
     title: "蓝衫导航",
     subtitle: "一个可自定义的简介导航网站",
     url: "http://www.your-web-page.xyz/",
-    icon: LOGO.BLUESHRIT
+    icon: LOGO_BLUESHRIT
   },
   {
     pageId: 103,
@@ -53,7 +53,7 @@ const PAGES_DATA = [
     title: "蓝衫云",
     subtitle: "中国香港CN2 GIA 美国大带宽服务器 VPS SSL证书",
     url: "https://www.blueshirtyun.com/",
-    icon: LOGO.BLUESHRIT
+    icon: LOGO_BLUESHRIT
   },
   {
     pageId: 104,
@@ -61,7 +61,7 @@ const PAGES_DATA = [
     title: "蓝衫轻盘",
     subtitle: "文件资源共享",
     url: "https://www.blueshirttools.com/",
-    icon: LOGO.BLUESHRIT
+    icon: LOGO_BLUESHRIT
   },
 
 
@@ -72,7 +72,7 @@ const PAGES_DATA = [
     title: "蓝衫云",
     subtitle: "中国香港CN2 GIA 美国大带宽服务器 VPS SSL证书",
     url: "https://www.blueshirtyun.com/",
-    icon: LOGO.BLUESHRIT
+    icon: LOGO_BLUESHRIT
   },
   {
     pageId: 202,
@@ -92,7 +92,7 @@ const PAGES_DATA = [
     title: "微信公众号-蓝衫科技",
     subtitle: "",
     url: "http://www.bluelskj.com/wp-content/uploads/2023/10/蓝衫科技.png",
-    icon: LOGO.BLUESHRIT
+    icon: LOGO_BLUESHRIT
   },
   {
     pageId: 302,
@@ -100,7 +100,7 @@ const PAGES_DATA = [
     title: "微信公众号-蓝衫轻科技",
     subtitle: "",
     url: "http://www.bluelskj.com/wp-content/uploads/2023/10/蓝衫轻科技.jpg",
-    icon: LOGO.BLUESHRIT
+    icon: LOGO_BLUESHRIT
   },
   {
     pageId: 303,
@@ -108,7 +108,7 @@ const PAGES_DATA = [
     title: "微信公众号-智慧蓝衫",
     subtitle: "",
     url: "http://www.bluelskj.com/wp-content/uploads/2023/10/智慧蓝衫.jpg",
-    icon: LOGO.BLUESHRIT
+    icon: LOGO_BLUESHRIT
   },
   {
     pageId: 304,
@@ -116,7 +116,7 @@ const PAGES_DATA = [
     title: "微信公众号-创聚校园",
     subtitle: "",
     url: "http://www.bluelskj.com/wp-content/uploads/2023/10/创聚校园.jpg",
-    icon: LOGO.BLUESHRIT
+    icon: LOGO_BLUESHRIT
   },
   {
     "pageId": 305,
@@ -176,7 +176,7 @@ const PAGES_DATA = [
     title: "Shirt.AI",
     subtitle: "",
     url: "https://www.lsshirtai.com/",
-    icon: LOGO.BLUESHRIT
+    icon: LOGO_BLUESHRIT
   },  
   {
     pageId: 402,
@@ -184,7 +184,7 @@ const PAGES_DATA = [
     title: "ChatGPT 进阶版",
     subtitle: "",
     url: "https://www.bluelsqkj.com/zh_cn/chatgptpro",
-    icon: LOGO.BLUESHRIT
+    icon: LOGO_BLUESHRIT
   },
   {
     pageId: 403,
@@ -192,7 +192,7 @@ const PAGES_DATA = [
     title: "ChatGPT 免费版",
     subtitle: "",
     url: "https://www.bluelsqkj.com/zh_cn/chatgptbuild",
-    icon: LOGO.BLUESHRIT
+    icon: LOGO_BLUESHRIT
   },
   {
     pageId: 404,
@@ -200,7 +200,7 @@ const PAGES_DATA = [
     title: "ChatGPT 购买平台",
     subtitle: "",
     url: "https://www.bluelsqkj.com/zh_cn/chatgpt-purchase-2",
-    icon: LOGO.BLUESHRIT
+    icon: LOGO_BLUESHRIT
   },
   {
     pageId: 405,
@@ -208,7 +208,7 @@ const PAGES_DATA = [
     title: "学术GPT",
     subtitle: "",
     url: "https://www.bluelsqkj.com/zh_cn/academicgpt",
-    icon: LOGO.ACDEMIEC
+    icon: LOGO_ACDEMIEC
   },
   {
     pageId: 406,
@@ -216,7 +216,7 @@ const PAGES_DATA = [
     title: "ChatGPT Plus",
     subtitle: "",
     url: "https://www.bluelsqkj.com/zh_cn/chatgptplus2",
-    icon: LOGO.BLUESHRIT
+    icon: LOGO_BLUESHRIT
   },
   {
     pageId: 407,
@@ -224,7 +224,7 @@ const PAGES_DATA = [
     title: "Midjourney普通版",
     subtitle: "",
     url: "https://www.bluelsqkj.com/zh_cn/midjourney",
-    icon: LOGO.BLUESHRIT
+    icon: LOGO_MIDJOURNEY
   },
   /* 其他站点 */
 
