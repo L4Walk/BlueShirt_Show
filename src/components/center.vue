@@ -31,7 +31,7 @@
                 :src="
                   item.icon == ''
                     ? 'http://www.bluelskj.com/wp-content/uploads/2023/05/8fa5b-www.blueshirtyun.com.png'
-                    : '@/assets/blueshirt_logo/' + item.icon
+                    :  item.icon
                 "
               />
             </div>
