@@ -20,11 +20,11 @@ const SORT_DATA = [
 
 const RECORD_NUMBER = ""; // 网站备案号，留空不显示
 
-const LOGO=[
+class LOGO{
    BLUESHRIT = "http://www.bluelskj.com/wp-content/uploads/2023/05/8fa5b-www.blueshirtyun.com.png",
    MIDJOURNEY = 'assets/blueshirt_logo/蓝衫midjourney.png',
    ACDEMIEC = 'assets/blueshirt_logo/学术GPT.png',
-]
+}
 
 
 
