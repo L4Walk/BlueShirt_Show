@@ -15,21 +15,23 @@ const SORT_DATA = [
   { sortId: 2, title: "基础服务" },
   { sortId: 3, title: "社交媒体" },
   { sortId: 4, title: "AI生态" },
-  { sortId: 5, title: "其他站点"},
+  //{ sortId: 5, title: "其他站点"},
 ]; // 网站分类列表，请按照API.md中'/getSort'接口中返回的data格式填写
 
 const RECORD_NUMBER = ""; // 网站备案号，留空不显示
 
 
-const LOGO_BLUESHRIT = "http://www.bluelskj.com/wp-content/uploads/2023/05/8fa5b-www.blueshirtyun.com.png";
+const LOGO_BLUESHRIT = "http://www.bluelskj.com/wp-content/uploads/2023/10/蓝衫_64.jpg";
 const LOGO_CLOUD = 'http://www.bluelskj.com/wp-content/uploads/2023/10/蓝衫云_64.png'
 const LOGO_MIDJOURNEY = 'http://www.bluelskj.com/wp-content/uploads/2023/10/蓝衫midjourney_64.png';
 const LOGO_ACDEMIEC = 'http://www.bluelskj.com/wp-content/uploads/2023/10/学术GPT_64.png';
 const LOGO_GPTPRO = 'http://www.bluelskj.com/wp-content/uploads/2023/10/蓝衫GPT进阶版_64.png';
 const LOGO_GPTFREE  = 'http://www.bluelskj.com/wp-content/uploads/2023/10/蓝衫GPT免费版_64.png';
 const LOGO_GPTBUY = 'http://www.bluelskj.com/wp-content/uploads/2023/10/GPT购买平台_64.png';
+const LOGO_GPTPLUS= 'http://www.bluelskj.com/wp-content/uploads/2023/10/GPTPLUS_64.png';
 const LOGO_SHIRTAITOOLKIT = 'http://www.bluelskj.com/wp-content/uploads/2023/10/ShirtAI-toolkit_64.png';
 const LOGO_CHUANGJU = 'http://www.bluelskj.com/wp-content/uploads/2023/10/创聚_64.jpg';
+const LOGO_DISK = 'http://www.bluelskj.com/wp-content/uploads/2023/10/蓝衫轻盘_64.png';
 
 
 
@@ -206,7 +208,7 @@ const PAGES_DATA = [
     title: "ChatGPT 购买平台",
     subtitle: "",
     url: "https://www.bluelsqkj.com/zh_cn/chatgpt-purchase-2",
-    icon: LOGO_BLUESHRIT
+    icon: LOGO_GPTBUY
   },
   {
     pageId: 405,
@@ -222,7 +224,7 @@ const PAGES_DATA = [
     title: "ChatGPT Plus",
     subtitle: "",
     url: "https://www.bluelsqkj.com/zh_cn/chatgptplus2",
-    icon: LOGO_BLUESHRIT
+    icon: LOGO_GPTPLUS
   },
   {
     pageId: 407,
